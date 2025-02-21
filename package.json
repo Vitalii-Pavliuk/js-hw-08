@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vitalii-pavliuk.github.io/js-hw-08",
+  "homepage": "https://github.com/vitalii-pavliuk.github.io/js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-hw-08"
+    "build": "parcel build src/*.html --public-url /js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/vitalii-pavliuk/js-hw-08"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/vitalii-pavliuk/js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.25.1",
